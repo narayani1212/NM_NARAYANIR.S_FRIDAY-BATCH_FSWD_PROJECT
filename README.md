@@ -1,11 +1,22 @@
-# NM_NARAYANIR.S_FRIDAY-BATCH_FSWD_PROJECT
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
-Name : Narayani R.S
 
-Id : au960221104078
+Project implemented by: 
 
-College Name : Arunachala College of Engineering for Women
 
-Username : narayanicse2025@gmail.com
+Name:
 
-Password : narayani
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
